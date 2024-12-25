@@ -25,13 +25,13 @@
   Example: A machine learning model that predicts stock prices based on historical data.
 
 ---
-
+## Download My CV
+📄 [Click here to download my CV](https://github.com/shivamsingh-ml/shivamsingh-ml.github.io/blob/main/assets/CV__Shivam__Singh.pdf)
 ---
 
 ## Connect With Me
 📫 Email: [Your Email](mailto:youremail@example.com)  
 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [Your Portfolio Website](https://yourwebsite.com)
 
 ---
 
