@@ -1,6 +1,5 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there👋
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
 
 ## About Me
 🎓 I am a [Your Job Title/Role] with experience in [Key Skills/Technologies].  
@@ -26,10 +25,6 @@
   Example: A machine learning model that predicts stock prices based on historical data.
 
 ---
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ---
 
