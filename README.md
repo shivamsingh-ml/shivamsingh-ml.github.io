@@ -1,1 +1,1 @@
-I am a Master's student in Data Science with expertise in Machine Learning, Deep Learning, and Natural Language Processing. With experience developing AI prototypes, fine-tuning language models, and implementing MLOps, I am skilled in Python, TensorFlow, and cloud platforms like AWS. I am currently seeking opportunities to further apply and expand my expertise in cutting-edge AI and data science applications.
+I am a Master's student in Data Science with expertise in Machine Learning, Deep Learning, and Natural Language Processing. 
